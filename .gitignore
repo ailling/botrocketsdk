@@ -1,0 +1,12 @@
+*.pyo
+*.pyc
+venv
+build
+lib
+include
+.project
+.pydevproject
+.settings
+dist
+botrocketsdk.egg-info
+

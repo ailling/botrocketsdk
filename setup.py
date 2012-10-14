@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 
 from setuptools import setup, find_packages
-
-import version
+from brplatform import version
 
 setup(
     name = "botrocketsdk",

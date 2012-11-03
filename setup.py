@@ -11,5 +11,5 @@ setup(
     description = ("Testing and helper framework for the Bot Rocket cloud platform"),
     license = "GPL",
     url = "https://github.com/ailling/botrocketsdk",
-    install_requires=['requests>=0.13.1',]
+    install_requires=['requests>=0.14.1',]
 )
